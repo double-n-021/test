@@ -1,0 +1,7 @@
+﻿  Vòng lặp.cpp
+C:\Users\ACER\source\repos\Bài tập\Vòng lặp.cpp(20,11): error C2143: syntax error: missing ';' before '?'
+C:\Users\ACER\source\repos\Bài tập\Vòng lặp.cpp(20,6): error C2182: 'dong': this use of 'void' is not valid
+C:\Users\ACER\source\repos\Bài tập\Vòng lặp.cpp(20,11): error C2059: syntax error: '?'
+C:\Users\ACER\source\repos\Bài tập\Vòng lặp.cpp(21,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\ACER\source\repos\Bài tập\Vòng lặp.cpp(21,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\ACER\source\repos\Bài tập\Vòng lặp.cpp(33,20): warning C4305: '=': truncation from 'double' to 'float'
